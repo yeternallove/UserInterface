@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_red"
+        android:title="@string/action_red"/>
+    <item
+        android:id="@+id/action_org"
+        android:title="@string/action_org"/>
+    <item
+        android:id="@+id/action_yel"
+        android:title="@string/action_yel"/>
+    <item
+        android:id="@+id/action_grn"
+        android:title="@string/action_grn"/>
+    <item
+        android:id="@+id/action_blu"
+        android:title="@string/action_blu"/>
+    <item
+        android:id="@+id/action_pur"
+        android:title="@string/action_pur"/>
+    <item
+        android:id="@+id/action_wht"
+        android:title="@string/action_wht"/>
+</menu>
