@@ -1,6 +1,18 @@
 <resources>
-    <string name="app_name">UserInterface</string>
-    <string name="action_setting">Setting</string>
+    <string-array name="planets">
+        <item>Earth</item>
+        <item>Venus</item>
+        <item>Jupiter</item>
+    </string-array>
+
+    <string name="simpleClockLable">Simple 3D Clock</string>
+    <string name="worldClockLable">World 3D Clock</string>
+    <string name="happyClockLable">Happy 3D Clock</string>
+    <string name="app_name">My Application</string>
+
+    <string name="tab_one">DIGITAL</string>
+    <string name="tab_two">ANALOG</string>
+
     <string name="action_red">Blood Red</string>
     <string name="actionred">RED</string>
     <string name="action_org">Burnt Orange</string>
@@ -15,13 +27,34 @@
     <string name="actionpur">PUR</string>
     <string name="action_wht">Stark White</string>
     <string name="actionwht">WHT</string>
-    <string name="popup_inv">Invisible</string>
-    <string name="popup_viz">VISISLE</string>
-    <string name="popup_gone">GONE</string>
+    <string name="action_inv">Invisible!</string>
+
+    <string name="action_settings">Settings</string>
     <string name="hello_world">Hello World Here\'s the Time!</string>
     <string name="clockGone">Remove AnalogClock From Layout</string>
     <string name="clockViz">Restore AnalogClock Visibility</string>
-    <string name="clockInviz">Render AnalogClock Invisible</string>
-    <string name="tab_one">DIGITAL</string>
-    <string name="tab_two">ANALOG</string>
+    <string name="clockInviz">Render AnalogClock Invisibility</string>
+
+    <string name="popup_viz">VISIBLE</string>
+    <string name="popup_inviz">INVISIBLE</string>
+    <string name="popup_gone">GONE</string>
+
+    <string name="planet_name_earth">Planet Name: Earth</string>
+    <string name="planet_name_venus">Planet Name: Venus</string>
+    <string name="planet_name_jupiter">Planet Name: Jupiter</string>
+    <string name="planet_mass_earth">Planet Mass: 5973 Yg</string>
+    <string name="planet_mass_venus">Planet Mass: 4870 Yg</string>
+    <string name="planet_mass_jupiter">Planet Mass: 1898000 Yg</string>
+    <string name="planet_grav_earth">Planet Gravity: 9.8 m/s</string>
+    <string name="planet_grav_venus">Planet Gravity: 8.9 m/s</string>
+    <string name="planet_grav_jupiter">Planet Gravity: 23.1 m/s</string>
+    <string name="ib_earth">Earth Button</string>
+    <string name="ib_venus">Venus Button</string>
+    <string name="ib_jupiter">Jupiter Button</string>
+    <string name="linear_layout">Linear Layout</string>
+    <string name="relative_layout">Relative Layout</string>
+    <string name="grid_layout">Grid Layout</string>
+    <string name="drawer_layout">Drawer Layout</string>
+    <string name="sliding_layout">SlidingPane Layout</string>
+    <string name="paging_layout">ViewPager Layout</string>
 </resources>
